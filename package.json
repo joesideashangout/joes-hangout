@@ -1,0 +1,1 @@
+{ "name": "joes-hangout", "version": "1.0.0", "scripts": { "dev": "next dev", "build": "next build", "start": "next start" }, "dependencies": { "next": "14.0.0", "react": "17.0.2", "react-dom": "17.0.2", "@supabase/supabase-js": "2.0.0", "tailwindcss": "2.2.19" }, "devDependencies": { "typescript": "4.5.4", "@types/react": "17.0.38", "@types/node": "16.11.12" } }
